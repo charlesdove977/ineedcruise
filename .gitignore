@@ -1,0 +1,13 @@
+# node / npm
+node_modules/
+*.tgz
+
+# OS / editor cruft
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# local audit output, not shipped
+*-AUDIT.md
+.archive/

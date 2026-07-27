@@ -1,0 +1,43 @@
+{
+  "name": "ineedcruise",
+  "version": "0.4.0",
+  "description": "A Claude Code skill that finds absurdly cheap cruises and prices the flight that makes them viable. Ranks on true all-in cost per night: fare plus taxes plus the gratuities no booking site shows you.",
+  "keywords": [
+    "claude-code",
+    "claude",
+    "skill",
+    "cruise",
+    "travel",
+    "travel-hacking",
+    "repositioning-cruise",
+    "flights",
+    "apify",
+    "cheap-travel"
+  ],
+  "homepage": "https://github.com/charlesdove977/ineedcruise#readme",
+  "bugs": {
+    "url": "https://github.com/charlesdove977/ineedcruise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesdove977/ineedcruise.git"
+  },
+  "license": "MIT",
+  "author": "Charles J Dove",
+  "type": "commonjs",
+  "bin": {
+    "ineedcruise": "bin/ineedcruise.js"
+  },
+  "files": [
+    "bin/",
+    "skill/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "node bin/ineedcruise.js --version && echo 'OK'"
+  }
+}
