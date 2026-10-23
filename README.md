@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/requires-Apify-8b5cf6?style=flat-square" alt="requires Apify">
 </p>
 
+Step-by-step guide and setup walkthrough: [I Need Cruise guide on charlieautomates.com](https://charlieautomates.com/free-resources/#ineedcruise)
+
 ---
 
 ## The problem
